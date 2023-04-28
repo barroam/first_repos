@@ -1,0 +1,28 @@
+*{
+    margin: 00;
+    padding: 00;
+}
+header{
+    text-align: center;  width: 100%;
+    background-color: #fff;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+nav{display: flex;
+    padding: 2% 6%;
+    justify-content: space-between;
+    align-items: center;
+
+}
+nav link{
+    align-self: start;
+}
+img{align-content: center;
+    width: 1000px; ;
+    height: 500px; ;
+}
+footer{
+    background-color: black;
+    color: #fff;
+}
